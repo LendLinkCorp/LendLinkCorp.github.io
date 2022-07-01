@@ -1,5 +1,6 @@
 ### LendLink
-Lend with a link!
+Lend with a link! [in stealth🤫~]
 
-[Neil](https://github.com/Genuinely)
-[Sid](https://github.com/KING-SID)
+### Founders
+* [Neil](https://github.com/Genuinely)
+* [Sid](https://github.com/KING-SID)
